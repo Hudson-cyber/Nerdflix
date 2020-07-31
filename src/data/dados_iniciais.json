@@ -1,129 +1,155 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Conhecimentos Gerais",
+      "link": "https://www.youtube.com/watch?v=gPSk0Xjz0og",
+      "cor": "#4717f6",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "informações sobre o mundo nerd",
+        "url": "https://www.youtube.com/watch?v=gPSk0Xjz0og"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "A história de um gênio",
+          "url": "https://www.youtube.com/watch?v=gPSk0Xjz0og"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Buraco Negro",
+          "url": "https://www.youtube.com/watch?v=WvQlhMjGo4M&t=729s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Era Jurassica",
+          "url": "https://www.youtube.com/watch?v=0I6ZQOPfgJk"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Entenda sobre a Terra",
+          "url": "https://www.youtube.com/watch?v=nEVPDqUb5dM"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Como surgiu nosso satélite natural",
+          "url": "https://www.youtube.com/watch?v=OGSfxOH410I&t=94s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Para mim a terra já deu",
+          "url": "https://www.youtube.com/watch?v=DAyKeqm2_uc"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Me abdusam porfavor",
+          "url": "https://www.youtube.com/watch?v=YJsPmC8e7A4"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Pergunta pra quem viveu em 2020",
+          "url": "https://www.youtube.com/watch?v=UM_mnIhHOXs"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Você Sabia? Porque eu não",
+      "cor": "#4717f6",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "coisas que você nem imaginaria!!!",
+        "url": "https://www.youtube.com/watch?v=XAcy5p3jZ3Y"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Ele vai voltar!!",
+          "url": "https://www.youtube.com/watch?v=XoULvIv9N_0"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "sobre o Hulk",
+          "url": "https://www.youtube.com/watch?v=uEGDtqxkE4c"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Netflix e o Cap",
+          "url": "https://www.youtube.com/watch?v=hgMHrZG_wz4"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Os clássicos Mandam",
+          "url": "https://www.youtube.com/watch?v=3j_OTvPRugo"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Homen Aranha 2,É sério isso?",
+          "url": "https://www.youtube.com/watch?v=L-2iRmUtwGk"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Musicas",
+      "cor": "#4717f6",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Musicas de filmes famosos",
+        "url": "https://www.youtube.com/watch?v=5OqiOBQfnNM&t=6s"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "All the Stars - Pantera Negra",
+          "url": "https://www.youtube.com/watch?v=JQbjS0_ZfJ0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Immortals -Big hero 6",
+          "url": "https://www.youtube.com/watch?v=l9PxOanFjxQ"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Moana - De Nada ",
+          "url": "https://www.youtube.com/watch?v=oIfXG_kscH4"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Mulher Maravilha - Musica Tema",
+          "url": "https://www.youtube.com/watch?v=LTLqxVqaxcU0"
+        },
+        {
+          "titulo": "Vingadores - Musica Tema",
+          "url": "https://www.youtube.com/watch?v=AYlvRQhYGS4"
+        }
+        ,
+        {
+          "titulo": "Frozen 2 - Into the Unknown",
+          "url": "https://www.youtube.com/watch?v=jp-CVYGEsjg"
+        }
+        ,
+        {
+          "titulo": "Mercurio Xmen Apocalipse - Sweet Dreams",
+          "url": "https://www.youtube.com/watch?v=qeMFqkcPYcg"
+        },
+        {
+          "titulo": "Zootopia -Try Everything ",
+          "url": "https://www.youtube.com/watch?v=c6rP-YP4c5I"
+        },
+        {
+          "titulo": "Zootopia -Aves de Rapina ",
+          "url": "https://www.youtube.com/watch?v=W7yxnIIV-10"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Trailers Nerd",
+      "cor": "#4717f6",
+      "link_extra": {
+        "text": "Filmes de possiveis infartos",
+        "url": "https://www.youtube.com/watch?v=e-6FGEOTTeU"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Mulher Maravilha 2",
+          "url": "https://www.youtube.com/watch?v=yGY484EPe5U"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Viuva Negra",
+          "url": "https://www.youtube.com/watch?v=ybji16u608U"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Mulan",
+          "url": "https://www.youtube.com/watch?v=H3PR1v_5cfc"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Wanda",
+          "url": "https://www.youtube.com/watch?v=eEUhVeQCzos"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#4717f6",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -153,7 +179,7 @@
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "#4717f6",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
