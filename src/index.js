@@ -9,5 +9,5 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
+//esse app pega o root e inicializa(renderiza)  o nosso projeto
 
