@@ -14,7 +14,7 @@ function App() {
     <BannerMain
       videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
       url={dadosIniciais.categorias[0].videos[0].url}
-      videoDescription={"Falamos de diversas coisas sobre o mundo nerd,desde desenhos,músicas,filmes,jogos e até mesmo curiosidades.Venha se divertir!!!!!"}
+      videoDescription={"Por diversas vezes fomos excluidos da sociedade e tivemos vergonha de mostrar nossas escolhas nerds mas isso acaba aqui, esse é um site no qual nós podemos nos sentir confotáveis do jeito que somos,sem sentir medo, pois todo gênio é diferente do restante da sociedade "}
     />
 
     <Carousel
